@@ -4,7 +4,6 @@ import com.google.pages.SearchResultsPage;
 import cucumber.api.java8.En;
 import org.springframework.beans.factory.annotation.Autowired;
 
-//@ContextConfiguration("file:../../resources/spring.xml")
 public class SearchStepdefs extends AbstractStep implements En {
 
     @Autowired

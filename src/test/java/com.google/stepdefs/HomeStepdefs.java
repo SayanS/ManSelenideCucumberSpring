@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import static com.codeborne.selenide.Configuration.baseUrl;
 import static com.codeborne.selenide.Selenide.open;
 
-//@ContextConfiguration("file:../../resources/spring.xml")
 public class HomeStepdefs extends AbstractStep implements En {
 
     @Autowired
